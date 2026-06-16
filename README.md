@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-A collection of machine learning and data analysis notebooks from my course at the American University of Afghanistan (AUAF), 2022, built with Python and Jupyter, covering regression, classification, exploratory data analysis, and data preprocessing.
+A collection of machine learning and data analysis notebooks, completed as part of my data science minor course at the American University of Afghanistan (AUAF), in spring of 2022, built with Python and Jupyter, covering regression, classification, exploratory data analysis, and data preprocessing.
 
 ## Projects
 
