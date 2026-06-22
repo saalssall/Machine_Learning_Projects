@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+
+# Anaconda environments (optional but recommended if inside project)
+.env/
+anaconda_env/
+
+# Pickle / ML model files (optional but common in sklearn projects)
+*.pkl
+*.joblib
+
+# Large datasets (optional)
+*.csv
+*.data
+*.xlsx
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
